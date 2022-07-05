@@ -7,7 +7,7 @@
 
 - 💬 I speak **Spanish, English, French and German**
 
-- ⚡ Fun fact **I like to play the piano and ride mountain bike
+- ⚡ Fun fact **I like to play the piano and ride mountain bike**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
