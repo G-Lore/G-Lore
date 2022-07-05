@@ -5,8 +5,9 @@
     <img src="https://komarev.com/ghpvc/?username=g-lore&label=Profile%20views&color=0e75b6&style=flat" alt="g-lore" />
 </p>
 
-- 💬 Ask me about **html, css, js** - ⚡ Fun fact **I like to play the piano, ride
-bikes and speak French**
+- 💬 Ask me about **html, css, js** 
+
+- ⚡ Fun fact **I like to play the piano, ride bikes and speak French**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
